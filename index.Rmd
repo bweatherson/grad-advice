@@ -1,0 +1,21 @@
+--- 
+title: "Advice for Graduate Students"
+author: "Brian Weatherson"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+description: "Advice for PhD students at the Univesity of Michigan, Ann Arbor"
+---
+
+# Introduction
+
+These notes are general guides to progressing through the PhD program in philosophy at the University of Michigan. They are meant to supplement what is available on the [department website](https://lsa.umich.edu/philosophy/graduates.html), including especially the [program regulations](https://lsa.umich.edu/philosophy/graduates/current-students/phd-regulations.html), and on the [Rackham website](https://rackham.umich.edu).
+
+The intended structure is that there will be some very high level information up front with more details within. I'm writing this, and sometimes I'll express idiosyncratic views. I'll try to be up front about when I'm doing that, and when I'm expressing views I take to be widely shared around the department. But you shouldn't always trust what I have to say.
+
+Every page will include a date stamp like this.
+
+Last Modified
+: `r Sys.Date()`
+
+Especially with respect to Rackham regulations, and the academic job market, things can change quickly, so check with faculty before relying on anything that's written here.

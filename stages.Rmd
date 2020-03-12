@@ -1,0 +1,95 @@
+# Path Through The Program
+
+I'm going to think of the program as broken up into three stages.
+
+1. Coursework
+2. Starting the research program
+3. Finishing the research program
+
+A _very_ rough idea is that a student taking six years to complete the program can do each of these stages in two years.
+
+Last Modified
+: `r Sys.Date()`
+
+## Coursework
+
+Each student has to complete 11 graduate philosophy courses. As well there are some distribution requirements, of which the three most important are:
+
+- A logic course (typically PHIL 413 or PHIL 414)
+- A course on ancient philosophy (i.e., figures from before about 600 CE)
+- A course on modern philosophy (i.e., figures from about 1625-1875 CE)
+
+Courses with numbers 400 or above count as graduate courses. 400-level courses are largely undergraduate courses, and may have as many as 50 undergraduates in them. It would be very bad to only take 400-level courses. Still, they count and the optimal number of such courses to take is probably 2-5. They are especially valuable for filling distribution requirements, or for getting a background in areas that your prior education was weak in.
+
+Whether a course number starts with 5 or 6 doesn't as a rule say much about its content. Traditionally 500-level courses were more survey-ish and 600-level courses more advanced, but this is not at all a reliable guide these days.
+
+Students who have taken graduate courses as part of a graduate degree can apply to have those courses count towards the 11 courses, and/or towards the distribution requirements. There is a limit of 4 courses that can be counted this way. On average, students with Masters degrees have been credited with 1-2 courses from their prior degree, and students who started a PhD elsewhere have been credited 3-4 courses. But these are not a guide to future practice; I mainly state them to let students with a Masters degree not to expect 4 course waivers.
+
+The aim of this stage is to **finish the coursework** and develop the skills and knowledge you need for the subsequent stages.
+
+During this stage you will have a **cohort advisor**. They should meet with you (at least) **three** times per year: once per semester to discuss courses and once around late April to discuss summer plans. In many cases it will be a good idea for the cohort advisor to set up 1 meeting per year (or more) with a specialist on your area, so they can check that you're preparing properly for research in that area.
+
+You should spend most of this time here in Ann Arbor. 
+
+There is no need to send papers out for possible publication, and in fact we mildly discourage this. 
+
+You should attend some conferences outside Ann Arbor, and even, especially if they are graduate conferences, presenting at some of them. At the very least, you should present one paper you've written to a group here at UM, either a reading group or a graduate student discussion group.
+
+Last Modified
+: `r Sys.Date()`
+
+## Starting The Research Program
+
+The next stage is to develop a **dossier** and a **prospectus**. In practice, what that means is that you have to write two things.
+
+1. A chapter of your thesis, which in most cases will be a standalone research paper.
+2. A plan for the rest of the thesis.
+
+During this time, you will do what's called a **Dossier Reading Course**. The name is misleading; what this means in practice is that you're starting thesis research. 
+
+But for most students, this does not mean aiming at a thesis. Rather, it means writing a good paper. This is both feasible, and in practice a good way to actually end up writing a thesis. (But check with your advisor whether this is good advice for the particular subject you're working on.)
+
+How to get started on research is one of the hardest questions about how to be a graduate student, and there are a lot of things in the rest of this document about how to manage this.
+
+One thing that is distinctively hard about this time is that for possibly the first time since you started elementary school, you won't have a daily schedule, and you won't have any deadlines (except self-imposed deadlines) less than one year away. So your work environment will change completely, and you'll be doing a radically different kind of work to what you had previously done. Managing these two transitions is a challenge.
+
+The aim of this stage is to **write a paper and a thesis plan**.
+
+During this stage you will an **advisor** that you select. While you are officially taking the DRC, this will be the DRC advisor you select. In most cases this person will become the **chair** of your **thesis committee**. During term, you should meet with this person **every 1-2 weeks**. You should also have a **thesis committee** consisting of (at least) two other people in this department, and one person from elsewhere in the university. You should meet with these people at least 1 time every semester or so.
+
+This is the best time to travel as widely as possible. If it is feasible given your research and financial/personal situation, you should spend a semester elsewhere to experience what other departments are like. If it is possible, you should try to spend the summers outside North America.
+
+There is still no need to be sending papers out for publication, but it is no longer discouraged.
+
+But similar to the advice about travel, you should be actively attending conferences at this time. And you should take every opportunity to present _the paper_ either at UM or elsewhere.
+
+Last Modified
+: `r Sys.Date()`
+
+## Finishing the Research Program
+
+This stage is relatively easy to describe: you finish writing a thesis. There are broadly speaking two kinds of theses.
+
+1. A number of self-contained papers on a somewhat common theme.
+2. Something like a monograph, with one chapter following from the previous one.
+
+In practice these are less differences than you might think. Some theses under option 1 have a very common theme; some monographs have some big jumps between chapters. My personal preference is for option 2; I think that has been more effective on the job market, but I don't think everyone agrees with this preference.
+
+Either way, the length of a thesis is 3-4 substantial research articles. In practice, that's around thirty to forty thousand words. (Though there isn't really an upper bound.)
+
+_Write a thesis_ seems like a big ask, but in practice it is often easier than the previous two stages. If you have a paper and plans for 1-2 more, actually writing two isn't the hardest thing. Developing the capacity to write papers on topic X can be the big step; exercising that capacity isn't always as difficult.
+
+Many students, perhaps most, will be trying to get academic jobs during this stage. And I'll have a lot more to say about the academic job market in later parts of these notes.
+
+The aim of this stage is to **write a thesis** and, if you are on the academic jobs track, **get an academic job**.
+
+During this stage you will be advised by **your thesis advisor**. You should meet them every **1-2 weeks** during term, and virtually meet some times over summer. You should also interact some of the time with the other members of your **thesis committee**. As the thesis takes shape, many people will change the committee members to better fit their interests; some will also change their advisor.
+
+During this time you should primarily be in Ann Arbor, though travelling to conferences (and possibly during summer) should still happen.
+
+Now you should be sending out papers for publication. The paper in your dossier could be published, and it is often a reasonable idea to send out the other papers in your thesis as soon as they are written.
+
+There is less need to go to graduate student conferences now, but you should be trying to go to conferences on your specialised topic, and presenting your best work in best places you can. Especially if you are going on the academic job market, you'll often be judged on your presentations, so practice them a lot.
+
+Last Modified
+: `r Sys.Date()`
